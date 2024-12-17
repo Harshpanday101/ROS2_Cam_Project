@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/image_conversion/image_conversion.egg-info
+writing ../../build/image_conversion/image_conversion.egg-info/PKG-INFO
+writing dependency_links to ../../build/image_conversion/image_conversion.egg-info/dependency_links.txt
+writing entry points to ../../build/image_conversion/image_conversion.egg-info/entry_points.txt
+writing requirements to ../../build/image_conversion/image_conversion.egg-info/requires.txt
+writing top-level names to ../../build/image_conversion/image_conversion.egg-info/top_level.txt
+writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+reading manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/harsh/ros2_cam/build/image_conversion/build
+creating /home/harsh/ros2_cam/build/image_conversion/build/lib
+creating /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+copying image_conversion/__init__.py -> /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+copying image_conversion/image_conversion_node.py -> /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+running install
+running install_lib
+creating /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+copying /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion/__init__.py -> /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+copying /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion/image_conversion_node.py -> /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+byte-compiling /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion/image_conversion_node.py to image_conversion_node.cpython-310.pyc
+running install_data
+creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index
+creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index
+creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index/packages
+copying resource/image_conversion -> /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index/packages
+copying package.xml -> /home/harsh/ros2_cam/install/image_conversion/share/image_conversion
+running install_egg_info
+Copying ../../build/image_conversion/image_conversion.egg-info to /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_conversion_node script to /home/harsh/ros2_cam/install/image_conversion/lib/image_conversion
+writing list of installed files to '/home/harsh/ros2_cam/build/image_conversion/install.log'

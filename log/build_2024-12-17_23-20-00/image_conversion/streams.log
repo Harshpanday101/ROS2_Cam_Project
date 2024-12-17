@@ -1,0 +1,37 @@
+[0.360s] Invoking command in '/home/harsh/ros2_cam/src/image_conversion': PYTHONPATH=/home/harsh/ros2_cam/build/image_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_conversion build --build-base /home/harsh/ros2_cam/build/image_conversion/build install --record /home/harsh/ros2_cam/build/image_conversion/install.log --single-version-externally-managed install_data
+[0.489s] running egg_info
+[0.490s] creating ../../build/image_conversion/image_conversion.egg-info
+[0.490s] writing ../../build/image_conversion/image_conversion.egg-info/PKG-INFO
+[0.490s] writing dependency_links to ../../build/image_conversion/image_conversion.egg-info/dependency_links.txt
+[0.490s] writing entry points to ../../build/image_conversion/image_conversion.egg-info/entry_points.txt
+[0.490s] writing requirements to ../../build/image_conversion/image_conversion.egg-info/requires.txt
+[0.490s] writing top-level names to ../../build/image_conversion/image_conversion.egg-info/top_level.txt
+[0.490s] writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[0.491s] reading manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[0.491s] writing manifest file '../../build/image_conversion/image_conversion.egg-info/SOURCES.txt'
+[0.491s] running build
+[0.491s] running build_py
+[0.491s] creating /home/harsh/ros2_cam/build/image_conversion/build
+[0.491s] creating /home/harsh/ros2_cam/build/image_conversion/build/lib
+[0.491s] creating /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+[0.491s] copying image_conversion/__init__.py -> /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+[0.491s] copying image_conversion/image_conversion_node.py -> /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion
+[0.492s] running install
+[0.492s] running install_lib
+[0.492s] creating /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[0.492s] copying /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion/__init__.py -> /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[0.492s] copying /home/harsh/ros2_cam/build/image_conversion/build/lib/image_conversion/image_conversion_node.py -> /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion
+[0.492s] byte-compiling /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion/__init__.py to __init__.cpython-310.pyc
+[0.493s] byte-compiling /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion/image_conversion_node.py to image_conversion_node.cpython-310.pyc
+[0.493s] running install_data
+[0.493s] creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index
+[0.493s] creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index
+[0.493s] creating /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index/packages
+[0.493s] copying resource/image_conversion -> /home/harsh/ros2_cam/install/image_conversion/share/ament_index/resource_index/packages
+[0.493s] copying package.xml -> /home/harsh/ros2_cam/install/image_conversion/share/image_conversion
+[0.493s] running install_egg_info
+[0.494s] Copying ../../build/image_conversion/image_conversion.egg-info to /home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages/image_conversion-0.0.0-py3.10.egg-info
+[0.495s] running install_scripts
+[0.508s] Installing image_conversion_node script to /home/harsh/ros2_cam/install/image_conversion/lib/image_conversion
+[0.508s] writing list of installed files to '/home/harsh/ros2_cam/build/image_conversion/install.log'
+[0.532s] Invoked command in '/home/harsh/ros2_cam/src/image_conversion' returned '0': PYTHONPATH=/home/harsh/ros2_cam/build/image_conversion/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harsh/ros2_cam/install/image_conversion/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_conversion build --build-base /home/harsh/ros2_cam/build/image_conversion/build install --record /home/harsh/ros2_cam/build/image_conversion/install.log --single-version-externally-managed install_data

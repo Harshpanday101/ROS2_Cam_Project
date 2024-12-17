@@ -1,0 +1,3 @@
+[console_scripts]
+image_conversion_node = image_conversion.image_conversion_node:main
+
